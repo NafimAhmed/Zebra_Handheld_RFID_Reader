@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\58832de4f573e2ed2db9679ed51a8726\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\1c7ecbfecc1df8f34183f044d7ec469e\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\2214f4f5205ac4d20333dc6d8ef39738\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\4fcdcf56416e1a9e3e089d2aad33a5c5\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\bd78b2a0348208492cf663d5c8b1e5ef\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\11ca12d675cf4b19512add0217bc583a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\ca97e6de99879567517dfa7041798ae6\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c508a1c12063ddbf9cb52f13a8d5213a\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\5f565c7133a3bf869dd0d3408da41e3e\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\8a71dfde35d6569413c1711fbce051d4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\nafim.ba\.gradle\caches\transforms-3\f8b673fdf78bb22f3c3b84566b5831b3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\ca2b64df914ac7957e961f06959ede7e\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\20b40d1a055090a6ce20e0e1ebecff04\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\d298b82ee975eb9529c7f1b0dd5d8dc3\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\cc4d6c9bd79e630d996056a2f2ca19c7\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\676f0bfca958ecf903f3ecc0d3c9ec1e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\ec74ba7e6152a4e4012190b3775ef2e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\ea46585f201b1f9be3da156d4dfcebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d362e46fbcfcf7ed71c727b5e93485f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\cd9235223ec9d10d222143bdb68dd0c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c0d6130ac4043acc431ef5f8e11c2266\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c642e67d96d4a1db669d3231ba451edc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\4cde334efffa369309adbf7080cf7a80\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6991d63d7a5411e85bef96c551b6d1b6\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\422d597bd44c5d09daa017c34c02e57b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\81df5e0928dc312fd795c2b735d94e47\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\e40413678057ba77f6a0b15874031c5f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\a1ad41facbcda7480c6fa8f62e9619cd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\b5b543f9987bef293e7d398594e4385f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\42329aaa327470a565c45048c64ba71a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\75771b0a8287c18e1f24865dacc743db\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\99741179162f3f3003e4f1c587273c06\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c697e65a75cbd8a86f2882a19a69f38c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\ec122909c2b8480a62a583010be14917\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\07599a5aca2c77bd3d0d3e6bd77d4f05\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\84a75944cb62d7ac43428d0a986302ac\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\9713fc849a76f43c79a876cdf48a56fb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\5d7ac573b876753cb150698a8f9ecf3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2abee4e2d6b56743c2e1c56b72a4afff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\32c3610f18531da74763446d5f131d1d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\247328ed6263ade5656e310d683705bf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7a837ec6610a65acb9b0065713a77820\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\01e39a964a251e8ef5d11c2f11e0ded1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\84fc4a426695bb1053ed765dcd9bd463\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\84ea29c0ef54b70de21f3b1a96aa5cf4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\14e6f677e05a7d74522d54c87c8053b0\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6316b6f2dfa002117d96d07cdaaed894\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\0a90db1ff22a647189ad566af9e93bf5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:6:5-68
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:11:5-68
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:7:5-74
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:12:5-74
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:10:22-75
+application
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:11:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\1c7ecbfecc1df8f34183f044d7ec469e\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\1c7ecbfecc1df8f34183f044d7ec469e\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c508a1c12063ddbf9cb52f13a8d5213a\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c508a1c12063ddbf9cb52f13a8d5213a\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:16:5-18:44
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:16:5-18:44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\5f565c7133a3bf869dd0d3408da41e3e\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\5f565c7133a3bf869dd0d3408da41e3e\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\8a71dfde35d6569413c1711fbce051d4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\8a71dfde35d6569413c1711fbce051d4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\99741179162f3f3003e4f1c587273c06\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\99741179162f3f3003e4f1c587273c06\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\5d7ac573b876753cb150698a8f9ecf3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\5d7ac573b876753cb150698a8f9ecf3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:supportsRtl
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:appComponentFactory
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:17:9-77
+	android:roundIcon
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.zebra.rfid.demo.sdksample.MainActivity
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:19:9-30:20
+	android:screenOrientation
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:24:13-36
+	android:theme
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\58832de4f573e2ed2db9679ed51a8726\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\58832de4f573e2ed2db9679ed51a8726\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\1c7ecbfecc1df8f34183f044d7ec469e\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\1c7ecbfecc1df8f34183f044d7ec469e\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\2214f4f5205ac4d20333dc6d8ef39738\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\2214f4f5205ac4d20333dc6d8ef39738\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\4fcdcf56416e1a9e3e089d2aad33a5c5\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\4fcdcf56416e1a9e3e089d2aad33a5c5\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\bd78b2a0348208492cf663d5c8b1e5ef\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\bd78b2a0348208492cf663d5c8b1e5ef\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\11ca12d675cf4b19512add0217bc583a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\11ca12d675cf4b19512add0217bc583a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\ca97e6de99879567517dfa7041798ae6\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\ca97e6de99879567517dfa7041798ae6\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c508a1c12063ddbf9cb52f13a8d5213a\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c508a1c12063ddbf9cb52f13a8d5213a\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:7:5-9:41
+MERGED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\5f565c7133a3bf869dd0d3408da41e3e\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\5f565c7133a3bf869dd0d3408da41e3e\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\8a71dfde35d6569413c1711fbce051d4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\8a71dfde35d6569413c1711fbce051d4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\nafim.ba\.gradle\caches\transforms-3\f8b673fdf78bb22f3c3b84566b5831b3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\nafim.ba\.gradle\caches\transforms-3\f8b673fdf78bb22f3c3b84566b5831b3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\ca2b64df914ac7957e961f06959ede7e\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\ca2b64df914ac7957e961f06959ede7e\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\20b40d1a055090a6ce20e0e1ebecff04\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\nafim.ba\.gradle\caches\transforms-3\20b40d1a055090a6ce20e0e1ebecff04\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\d298b82ee975eb9529c7f1b0dd5d8dc3\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\d298b82ee975eb9529c7f1b0dd5d8dc3\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\cc4d6c9bd79e630d996056a2f2ca19c7\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\cc4d6c9bd79e630d996056a2f2ca19c7\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\676f0bfca958ecf903f3ecc0d3c9ec1e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\676f0bfca958ecf903f3ecc0d3c9ec1e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\ec74ba7e6152a4e4012190b3775ef2e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\ec74ba7e6152a4e4012190b3775ef2e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\ea46585f201b1f9be3da156d4dfcebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\ea46585f201b1f9be3da156d4dfcebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d362e46fbcfcf7ed71c727b5e93485f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d362e46fbcfcf7ed71c727b5e93485f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\cd9235223ec9d10d222143bdb68dd0c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\cd9235223ec9d10d222143bdb68dd0c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c0d6130ac4043acc431ef5f8e11c2266\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c0d6130ac4043acc431ef5f8e11c2266\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c642e67d96d4a1db669d3231ba451edc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c642e67d96d4a1db669d3231ba451edc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\4cde334efffa369309adbf7080cf7a80\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\4cde334efffa369309adbf7080cf7a80\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6991d63d7a5411e85bef96c551b6d1b6\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6991d63d7a5411e85bef96c551b6d1b6\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\422d597bd44c5d09daa017c34c02e57b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\422d597bd44c5d09daa017c34c02e57b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\81df5e0928dc312fd795c2b735d94e47\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\81df5e0928dc312fd795c2b735d94e47\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\e40413678057ba77f6a0b15874031c5f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\e40413678057ba77f6a0b15874031c5f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\a1ad41facbcda7480c6fa8f62e9619cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\a1ad41facbcda7480c6fa8f62e9619cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\b5b543f9987bef293e7d398594e4385f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\b5b543f9987bef293e7d398594e4385f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\42329aaa327470a565c45048c64ba71a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\42329aaa327470a565c45048c64ba71a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\75771b0a8287c18e1f24865dacc743db\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\nafim.ba\.gradle\caches\transforms-3\75771b0a8287c18e1f24865dacc743db\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\99741179162f3f3003e4f1c587273c06\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\99741179162f3f3003e4f1c587273c06\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c697e65a75cbd8a86f2882a19a69f38c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\c697e65a75cbd8a86f2882a19a69f38c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\ec122909c2b8480a62a583010be14917\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\ec122909c2b8480a62a583010be14917\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\07599a5aca2c77bd3d0d3e6bd77d4f05\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\07599a5aca2c77bd3d0d3e6bd77d4f05\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\84a75944cb62d7ac43428d0a986302ac\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\84a75944cb62d7ac43428d0a986302ac\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\9713fc849a76f43c79a876cdf48a56fb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\9713fc849a76f43c79a876cdf48a56fb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\5d7ac573b876753cb150698a8f9ecf3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\5d7ac573b876753cb150698a8f9ecf3e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2abee4e2d6b56743c2e1c56b72a4afff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2abee4e2d6b56743c2e1c56b72a4afff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\32c3610f18531da74763446d5f131d1d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\32c3610f18531da74763446d5f131d1d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\247328ed6263ade5656e310d683705bf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\nafim.ba\.gradle\caches\transforms-3\247328ed6263ade5656e310d683705bf\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7a837ec6610a65acb9b0065713a77820\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7a837ec6610a65acb9b0065713a77820\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\01e39a964a251e8ef5d11c2f11e0ded1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\01e39a964a251e8ef5d11c2f11e0ded1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\84fc4a426695bb1053ed765dcd9bd463\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\84fc4a426695bb1053ed765dcd9bd463\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\84ea29c0ef54b70de21f3b1a96aa5cf4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\84ea29c0ef54b70de21f3b1a96aa5cf4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\14e6f677e05a7d74522d54c87c8053b0\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\14e6f677e05a7d74522d54c87c8053b0\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6316b6f2dfa002117d96d07cdaaed894\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6316b6f2dfa002117d96d07cdaaed894\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\0a90db1ff22a647189ad566af9e93bf5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\0a90db1ff22a647189ad566af9e93bf5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:RFIDAPI3Library] E:\Zebra_RFIDAPI3_SDK_2.0.2.116\HHSDKSampleApp\RFIDAPI3Library\build\.transforms\e6b8c03f3d7fdc21947e5fa2462fd0c1\transformed\jetified-API3_LIB-release-1.0.2.116\AndroidManifest.xml:14:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\d9243d2a5e9b302346f3cfa16ae63481\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\2bab62bfded58bb7e1ca584b540db998\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\7b5fd4dca752b0a0c4da062e99ae13f4\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\6ef1dddfcf28c441d1f1f228e14c990e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\nafim.ba\.gradle\caches\transforms-3\df0ac889ed3d7b78c16912500fbd13a8\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
